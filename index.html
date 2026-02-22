@@ -4,42 +4,28 @@
 <meta charset="UTF-8">
 <title>Resume - Reid Van Mouwerik</title>
 <style>
-  /* minimum viable css */
-  body {
-    font-family: monospace;
-    max-width: 50em;
-    margin: 2em auto;
-    padding: 0 1em;
-    line-height: 1.4;
-    color: #000;
-    background: #fff;
-  }
-  
- 
-  h3 {
-    margin-top: 3em; 
-    border-bottom: 1px dashed #000;
-    padding-bottom: 0.3em;
-  }
+    /* minimum viable css */
+    body { font-family: monospace; max-width: 50em; margin: 2em auto; padding: 0 1em; line-height: 1.4; color: #000; background: #fff; }
+    h3 { margin-top: 3em; border-bottom: 1px dashed #000; padding-bottom: 0.3em; }
+    ul { margin-top: 0; padding-left: 1.5em; }
 
-
-  ul {
-    margin-top: 0;
-    padding-left: 1.5em;
-  }
-</style>
+    /* for print to be cleaner */
+    @media print {
+      body { font-size: 11pt; margin: 0; }
+      h3 { margin-top: 1.5em; }
+      a[onclick] { display: none; } /* hides export link on the pdf */
+      a:after { content: " (" attr(href) ")"; font-size: 0.9em; } /* prints urls next to links onnem */
+    }
+  </style>
 </head>
 <body>
-
-<h1>Reid Van Mouwerik</h1>
-<p>
-  e-mail: <a href="mailto:reid@reidvanmouwerik.com">reid@reidvanmouwerik.com</a><br>
-  site: <a href="https://reidvanmouwerik.com">reidvanmouwerik.com</a>
-  export: <a href="#" onclick="window.print();return false;">Print or Save as PDF</a>
-</p>
-</p>
-
-<hr>
+  <h1>Reid Van Mouwerik</h1>
+  <p>
+    e-mail: <a href="mailto:reid@reidvanmouwerik.com">reid@reidvanmouwerik.com</a><br>
+    site: <a href="https://reidvanmouwerik.com">reidvanmouwerik.com</a><br>
+    export: <a href="#" onclick="window.print();return false;">Print or Save as PDF</a>
+  </p>
+  <hr>
 
 <h2>EXPERIENCE</h2>
 
