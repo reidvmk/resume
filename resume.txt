@@ -110,6 +110,7 @@ University of Redlands
   * Paid media strategy
   * Enterprise sales outreach
   * Large-event logistics
+  * Transportation Worker ID Card (TWIC)
   * Python, R Studio, Tableau, Excel
 
 ================================================================================
