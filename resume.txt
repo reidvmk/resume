@@ -8,7 +8,7 @@
 
 Mississippi Productions + True West Entertainment
 > Operations Lead
-> Portland, OR | [SEP 2022 - PRESENT] (3 yrs, 6 mos)
+> Portland, OR | [SEP 2022 - MAY 2026] (3 yr, 2 mo)
 
   Operations management for live music venues across the company: Mississippi 
   Studios, Revolution Hall, and Polaris Hall. Responsible for liquor, fire, 
@@ -91,9 +91,10 @@ Hillary for America
 
 :: EDUCATION :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-MITx Supply Chain MicroMasters
-> SC0X: Supply Chain Analytics (in progress)
-> [JAN 2026 - PRESENT] (1 mo)
+Portland State University (Graduate School of Business)
+> M.S. Global Supply Chain Management
+> [SEP 2026 - PRESENT]
+> [graduating March 2028]
 
 University of Redlands
 > B.A. Public Policy, 3.71 GPA
@@ -114,5 +115,5 @@ University of Redlands
   * Python, R Studio, Tableau, Excel
 
 ================================================================================
-                 [ Thank you for reading, man or machine! ]
+                 [ Thank you for reading, human or machine! ]
 ================================================================================
